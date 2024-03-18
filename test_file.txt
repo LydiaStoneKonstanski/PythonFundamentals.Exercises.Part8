@@ -1,0 +1,82 @@
+/Users/lydia/Documents/Books/.DS_Store
+/Users/lydia/Documents/Books/Screenshot 2024-03-01 at 10.34.43 AM.png
+/Users/lydia/Documents/Books/2024-03-07T16_52_03.pdf
+/Users/lydia/Documents/Books/ProDev/Week 1 - Setting Yourself Up for Success_LinkedIn.pdf
+/Users/lydia/Documents/Books/ProDev/ProDev_Resume Writing Presentation_Updated Nov 2023.pdf
+/Users/lydia/Documents/Books/ProDev/LinkedIn Checklist.pdf
+/Users/lydia/Documents/Books/Kris/.DS_Store
+/Users/lydia/Documents/Books/Kris/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+/Users/lydia/Documents/Books/Kris/Screenshot 2024-03-06 at 6.15.36 PM.png
+/Users/lydia/Documents/Books/Kris/Git Cheat Sheet.pdf
+/Users/lydia/Documents/Books/Kris/Python Books/thinkpython2.pdf
+/Users/lydia/Documents/Books/Kris/Python Books/ZCW-Python-Prep.pdf
+/Users/lydia/Documents/Books/Kris/Python Books/Head-First-Python-2nd-Edition.pdf
+/Users/lydia/Documents/Books/Kris/Python Books/Screenshot 2024-03-12 at 11.54.01 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/.DS_Store
+/Users/lydia/Documents/Books/Kris/Java Books/Core Java Volume 1 - Fundamentals, 10th Edition.pdf
+/Users/lydia/Documents/Books/Kris/Java Books/IMG_4954.png
+/Users/lydia/Documents/Books/Kris/Java Books/thinkjava.pdf
+/Users/lydia/Documents/Books/Kris/Java Books/Core Java String Formatting.pdf
+/Users/lydia/Documents/Books/Kris/Java Books/core-java-volume-1-fundamentals-10th.pdf.zip
+/Users/lydia/Documents/Books/Kris/Java Books/LabGuideWeeks1-2.pdf
+/Users/lydia/Documents/Books/Kris/Java Books/tutorial-v4.pdf
+/Users/lydia/Documents/Books/Kris/Java Books/Compile and Runtime Errors in Java.pdf
+/Users/lydia/Documents/Books/Kris/Java Books/image.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 11.01.23 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 2.23.40 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.11.03 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.17.13 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.23.11 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.12.00 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.21.36 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.14.55 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.19.28 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.05.59 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.14.33 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.18.29 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.16.18 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.07.52 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Formatting Inputs and Outputs/Screenshot 2024-03-01 at 4.10.28 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/PayDay Project/Screenshot 2024-03-01 at 11.05.20 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/PayDay Project/Screenshot 2024-03-01 at 11.04.28 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/PayDay Project/Screenshot 2024-03-01 at 11.06.29 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/PayDay Project/Screenshot 2024-03-01 at 11.04.16 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/PayDay Project/Screenshot 2024-03-01 at 11.08.38 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/PayDay Project/Screenshot 2024-03-01 at 10.35.47 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/PayDay Project/Screenshot 2024-03-01 at 10.43.34 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/PayDay Project/Screenshot 2024-03-01 at 10.55.03 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-06 at 2.30.42 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/java reverse string.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-07 at 1.37.41 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-06 at 10.59.46 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/PersonHandler.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-08 at 1.35.34 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Encapsulization.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-06 at 3.36.27 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-08 at 1.45.14 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-09 at 5.49.26 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-08 at 9.40.04 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-10 at 11.41.38 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-06 at 10.52.47 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Remove char.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-06 at 4.22.10 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-06 at 2.30.49 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-08 at 9.48.52 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Parensymmetry.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-08 at 4.02.07 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-08 at 1.40.55 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Java Slides/Screenshot 2024-03-08 at 4.44.53 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/.DS_Store
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/Screenshot 2024-03-01 at 10.12.23 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/Screenshot 2024-02-27 at 10.59.29 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/Screenshot 2024-02-27 at 2.44.19 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/Screenshot 2024-03-01 at 10.08.28 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/Screenshot 2024-02-27 at 11.34.30 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/Screenshot 2024-02-27 at 11.18.13 AM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/Screenshot 2024-02-27 at 2.47.05 PM.png
+/Users/lydia/Documents/Books/Kris/Java Books/Classes and Objects/Screenshot 2024-02-27 at 10.38.46 AM.png
+/Users/lydia/Documents/Books/Git/atlassian-git-cheatsheet.pdf
+/Users/lydia/Documents/Books/Git/GitHubWhaaazit2023.pdf
+/Users/lydia/Documents/Books/Git/progit.pdf
+/Users/lydia/Documents/Books/Razz/GroupProjectApproach20240226.pdf
+/Users/lydia/Documents/Books/Razz/AgilePrimer2024.pdf
